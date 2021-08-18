@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=nirbhay-gaur&color=fb760b&label=Visitors" alt="js" />
+	<img src="https://komarev.com/ghpvc/?username=nirbhay-gaur&color=blueviolet&label=Profile+Views&style=flat-square" alt="js" />
 </p>
