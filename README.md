@@ -1,10 +1,13 @@
 <h2 align="center">Hi! 👋 I'm Nirbhay Gaur</h2>
+
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25 /></h4>
+
 <p align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=%23A020F0F1&size=25&center=true&vCenter=true&lines=Full+Stack+Developer;Competitive+Programmer;Cybersecurity+Enthusiast" />
 	</a>
 </p>
+
 <p align="center">
 	<a href="mailto:nirbhaygaur.cer18@itbhu.ac.in">
 		<img src="https://img.shields.io/badge/-Mail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -16,8 +19,11 @@
 		<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 	</a>
 </p>
+
 <br />
-<h4 align="center">Some Technologies, Languages, Framework, IDEs that I use<h4/>	
+
+<h4 align="center">Some Technologies, Languages, Framework, IDEs that I use<h4/>
+	
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
@@ -40,11 +46,18 @@
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
+	
 <br />
+	
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula&hide_border=true" />
 </p>	
+	
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=rogue&hide_border=true" />
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=nirbhay-gaur&color=fb760b&label=Visitors" alt="js" />
 </p>
