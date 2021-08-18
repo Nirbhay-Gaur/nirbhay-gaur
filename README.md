@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Nirbhay Gaur</h2>
 
-<h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!</h4>
+<h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25 /></h4>
  
 <p align="center">
 	<a href="https://git.io/typing-svg">
@@ -32,12 +32,15 @@
 	<img src="https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/node_js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/react_js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=boostrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Express_js-000000?&style=for-the-badge&logo=express&logoColor=white" alt="express" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
