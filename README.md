@@ -27,9 +27,9 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="c++" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="c++" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/node_js-339933?&style=for-the-badge&logo=nodejs&logoColor=white" alt="nodejs" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/node_js-339933?&style=for-the-badge&logo=node&logoColor=white" alt="nodejs" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/react_js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
