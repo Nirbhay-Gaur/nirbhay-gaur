@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Nirbhay Gaur</h2>
+<h2 align="center">Hi! 👋 I'm Nirbhay Gaur</h2>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25 /></h4>
 <p align="center">
 	<a href="https://git.io/typing-svg">
