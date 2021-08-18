@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋, I'm Nirbhay Gaur</h2>
+
+<h3 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!</h3>
  
 <p align="center">
 	<a href="https://git.io/typing-svg">
