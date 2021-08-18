@@ -2,7 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%23A020F0F1&size=25&lines=Full+Stack+Developer;Competitive+Programmer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-p align="center">
+<p align="center">
 <a href="mailto:nirbhaygaur.cer18@itbhu.ac.in">
 		<img src="https://img.shields.io/badge/-Mail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
 	</a>
