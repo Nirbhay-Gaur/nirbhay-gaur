@@ -42,8 +42,8 @@
 </p>
 <br />
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula" />&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&theme=dracula&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula&hide_border=true" />
 </p>	
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=dracula" />
