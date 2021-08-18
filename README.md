@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/node_js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/react_js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=boostrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Express_js-000000?&style=for-the-badge&logo=express&logoColor=white" alt="express" />&nbsp;&nbsp;
