@@ -50,7 +50,8 @@
 <br />
 	
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula&hide_border=true" />
+	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula&hide_border=true" />
 </p>	
 	
