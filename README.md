@@ -42,9 +42,9 @@
 </p>
 <br />
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&langs_count=5&layout=compact&theme=gotham" />&nbsp;&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=gotham" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula" />
 </p>	
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=nord" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=dracula" />
 </p>
