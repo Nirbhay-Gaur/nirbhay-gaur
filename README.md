@@ -1,6 +1,6 @@
-<h2 align="center">Hi! 👋 I'm Nirbhay Gaur</h2>
+<h1 align="center">Hi! 👋 I'm Nirbhay Gaur</h1>
 
-<h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25 /></h4>
+<h3 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25 /></h3>
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
@@ -22,7 +22,7 @@
 
 <br />
 
-<h4 align="center">Some Technologies, Languages, Framework, IDEs that I use<h4/>
+<h3 align="center">Some Technologies, Languages, Framework, IDEs that I use</h3>
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;&nbsp;
