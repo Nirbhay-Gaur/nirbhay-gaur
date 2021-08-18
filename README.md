@@ -44,3 +44,8 @@
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
+	
+
+<p>
+	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=nord" />
+</p>
