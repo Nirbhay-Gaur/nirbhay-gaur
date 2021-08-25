@@ -43,6 +43,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Vscode-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
