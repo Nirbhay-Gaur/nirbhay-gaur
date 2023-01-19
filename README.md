@@ -60,7 +60,3 @@
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=nirbhay-gaur&theme=rogue&hide_border=true" />
 </p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=nirbhay-gaur&color=blueviolet&label=Profile+Views&style=flat-square" alt="js" />
-</p>
