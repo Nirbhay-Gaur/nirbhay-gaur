@@ -14,7 +14,7 @@
 	</a>
 	<a href="https://www.linkedin.com/in/nirbhaygaur/">
 		<img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-	</a>>
+	</a>
 </p>
 
 <br />
