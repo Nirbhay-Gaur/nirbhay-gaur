@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=%23A020F0F1&size=25&center=true&vCenter=true&lines=Full+Stack+Developer;Competitive+Programmer;Cybersecurity+Enthusiast" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=%23A020F0F1&size=25&center=true&vCenter=true&lines=Data+Analyst;Full+Stack+Developer;Competitive+Programmer;Cybersecurity+Enthusiast" />
 	</a>
 </p>
 
@@ -14,10 +14,7 @@
 	</a>
 	<a href="https://www.linkedin.com/in/nirbhaygaur/">
 		<img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://www.facebook.com/nirbhay.gaur1">
-		<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-	</a>
+	</a>>
 </p>
 
 <br />
@@ -48,15 +45,3 @@
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
 	
-<br />
-	
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-gaur&layout=compact&theme=dracula&hide_border=true" />
-	<br />
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=nirbhay-gaur&theme=dracula&hide_border=true" />
-</p>	
-	
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=nirbhay-gaur&color=blueviolet&label=Profile+Views&style=flat-square" alt="js" />
-</p>
